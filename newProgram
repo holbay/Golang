@@ -1,0 +1,10 @@
+Package main
+
+iomport {
+	"fmt"
+}
+
+
+func main()  {
+	fmt.Println("hello World!\n");
+}
